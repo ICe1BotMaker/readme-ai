@@ -2,7 +2,7 @@
 Developers create their own models without libraries
 
 ### Description of ReadMe Ai
-- Originally, it was intended to be developed using ![Tensorflow.js](https://github.com/tensorflow/tfjs), but due to the greed of developers, it was made into its own model without a library.
+- Originally, it was intended to be developed using [Tensorflow.js](https://github.com/tensorflow/tfjs), but due to the greed of developers, it was made into its own model without a library.
 
 <br>
 
